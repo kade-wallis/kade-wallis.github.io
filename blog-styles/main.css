@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(217, 219, 251);
+}
+h1 {
+  color: rgb(1, 35, 205);
+}
+h2 {
+  color: rgb(1, 19, 88);
+}
+div {
+  background-color: rgb(202, 110, 196);
+}
+img {
+  width: 100px;
+  height: auto;
+}
