@@ -8,9 +8,29 @@ h2 {
   color: rgb(1, 19, 88);
 }
 div {
-  background-color: rgb(202, 110, 196);
+  background-color: rgb(147, 210, 233);
+  text-align: center;
 }
 img {
   width: 100px;
   height: auto;
+}
+span {
+  background-color: rgb(255, 102, 245);
+}
+#values-list {
+  list-style-position: inside;
+}
+.container {
+  text-align: center;
+}
+.container ul {
+  display: inline-block;
+  text-align: left;
+}
+.div-background-1 {
+  background-color: rgb(147, 210, 233);
+}
+.div-background-2 {
+  background-color: rgb(209, 236, 246);
 }
