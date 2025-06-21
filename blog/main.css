@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(216, 216, 250);
+  width: 100%;
+}
+h1 {
+  color: rgb(4, 11, 44);
+  font-family: 'tahoma', sans-serif;
+}
+h2 {
+  color: rgb(1, 19, 88);
+  font-family: 'tahoma', sans-serif;
+}
+div {
+  background-color: rgb(97, 196, 232);
+  text-align: center;
+}
+img {
+  width: 100px;
+  height: auto;
+}
+span {
+  background-color: rgb(255, 103, 250);
+}
+.div-background-1 {
+  background-color: rgb(147, 210, 233);
+}
+.centered-list {
+  text-align: center;
+}
+ol {
+  list-style-position: inside;
+  text-align: center;
+}
+#produced-by-kade {
+  font-family: 'tahoma', sans-serif;
+  font-size: 10px;
+  background-color: transparent;
+}
+ul {
+  list-style-position: inside;
+  text-align: center;
+}
