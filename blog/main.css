@@ -40,3 +40,10 @@ ul {
   list-style-position: inside;
   text-align: center;
 }
+#simple-ul {
+  list-style-position: inside;
+  text-align: left;
+}
+#container-pic {
+  width: 500px;
+}
