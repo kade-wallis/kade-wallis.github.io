@@ -24,21 +24,11 @@ span {
 .div-background-1 {
   background-color: rgb(147, 210, 233);
 }
-.centered-list {
-  text-align: center;
-}
-ol {
-  list-style-position: inside;
-  text-align: center;
-}
+
 #produced-by-kade {
   font-family: 'tahoma', sans-serif;
   font-size: 10px;
   background-color: transparent;
-}
-ul {
-  list-style-position: inside;
-  text-align: center;
 }
 #simple-ul {
   list-style-position: inside;
